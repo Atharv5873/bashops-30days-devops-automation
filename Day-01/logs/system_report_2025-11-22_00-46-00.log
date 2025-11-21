@@ -1,0 +1,36 @@
+==================================
+ SYSTEM HEALTH REPORT - 2025-11-22_00-46-00
+==================================
+
+>> CPU USAGE:%Cpu(s):  2.3 us,  1.2 sy,  0.0 ni, 95.3 id,  1.2 wa,  0.0 hi,  0.0 si,  0.0 st 
+
+>> MEMORY USAGE:               total        used        free      shared  buff/cache   available
+Mem:            19Gi       3.7Gi        10Gi       539Mi       5.4Gi        15Gi
+Swap:          3.3Gi          0B       3.3Gi
+
+>> DISK USAGE:Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           2.0G  2.7M  2.0G   1% /run
+/dev/nvme0n1p2  230G   75G  144G  35% /
+tmpfs           9.7G   88K  9.7G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        128K   62K   62K  51% /sys/firmware/efi/efivars
+tmpfs           9.7G     0  9.7G   0% /run/qemu
+/dev/nvme0n1p1  489M  6.3M  482M   2% /boot/efi
+/dev/sda3       679G   86M  679G   1% /media/atharv/shared
+tmpfs           2.0G  2.5M  2.0G   1% /run/user/1000
+
+>> TOP 5 PROCESSES (CPU):    PID    PPID CMD                         %MEM %CPU
+   6023    3662 /snap/firefox/7177/usr/lib/  3.6 11.6
+   9444    6240 /snap/firefox/7177/usr/lib/  1.9  3.0
+   3662    3224 /usr/bin/gnome-shell         1.6  2.8
+   3364    3360 /usr/lib/xorg/Xorg vt2 -dis  0.8  2.1
+   6648    6240 /snap/firefox/7177/usr/lib/  1.6  0.8
+
+>> TOP 5 PROCESSES (MEMORY):    PID    PPID CMD                         %MEM %CPU
+   6023    3662 /snap/firefox/7177/usr/lib/  3.6 11.6
+   9451    6240 /snap/firefox/7177/usr/lib/  2.0  0.4
+   9510    6240 /snap/firefox/7177/usr/lib/  2.0  0.3
+   9444    6240 /snap/firefox/7177/usr/lib/  1.9  3.0
+   6648    6240 /snap/firefox/7177/usr/lib/  1.6  0.8
+
+Report saved to: logs/system_report_2025-11-22_00-46-00.log

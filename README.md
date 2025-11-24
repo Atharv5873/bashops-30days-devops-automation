@@ -6,4 +6,5 @@ A 30-day DevOps-focused Bash automation challenge. Each day features a real-worl
 |-----|--------------------------------------|--------------------|
 | 1   | System Health Report                 | [Day-01](./Day-01) |
 | 2   | Service Watchdog (Auto-Restart)      | [Day-02](./Day-02) |
-| 2   | Inactive User Cleaner			     | [Day-03](./Day-03) |
+| 3   | Inactive User Cleaner			     | [Day-03](./Day-03) |
+| 4   | Auto Backup Script                   | [Day-04](./Day-04) |

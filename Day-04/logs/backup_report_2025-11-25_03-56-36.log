@@ -1,0 +1,6 @@
+Backup Report - 2025-11-25_03-56-36
+Source Directory: /var/www/
+Backup File: backups/backup_2025-11-25_03-56-36.tar.gz
+----------------------------------------
+tar: Removing leading `/' from member names
+[+] Backup Sucessful.

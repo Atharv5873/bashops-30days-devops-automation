@@ -1,0 +1,16 @@
+Log Cleanup Report - DEMO RUN
+Retention Policy: Delete logs older than 7 days
+---------------------------------------------------------
+[*] Archiving logs newer than 7 days...
+[+] Logs archived at: archive/logs_archive_demo.tar.gz
+
+[*] Deleting logs older than 7 days...
+/var/log/app1/app.log.1
+/var/log/app1/error.log.3
+/var/log/app2/access.log.7.gz
+/var/log/app2/service.log.2.gz
+
+[*] Summary:
+- Archived 4 recent log files
+- Deleted 6 old log files
+- Operation completed successfully

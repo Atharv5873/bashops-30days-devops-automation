@@ -1,0 +1,5 @@
+# Ignore real Day-05 archive (keep demo)
+Day-05/archive/logs_archive_2025-11-26_07-13-41.tar.gz
+
+# Ignore real Day-05 log report (keep demo)
+Day-05/logs/log_cleaner_report_2025-11-26_07-13-41.log

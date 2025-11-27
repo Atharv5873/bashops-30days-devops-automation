@@ -1,0 +1,7 @@
+Disk Usage Alert Report - 2025-11-27_22-41-54
+Threshold: 30%
+------------------------------------
+[*] Current usage: 39%
+[!] ALERT: Disk usage is above 30%
+[!] Action required immediately!
+[!] Slack alert sent.

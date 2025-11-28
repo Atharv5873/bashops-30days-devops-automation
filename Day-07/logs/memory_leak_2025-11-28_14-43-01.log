@@ -1,0 +1,11 @@
+Memory Leak Detection Report - 2025-11-28_14-43-01
+Threshold: 0.5%
+---------------------------------------------
+[*] Scanning for processes exceeding 0.5% memory...
+PID: 3581 | MEM: 1.6% | CPU: 0.4% | CMD: /usr/bin/gnome-shell
+PID: 3271 | MEM: 0.8% | CPU: 0.0% | CMD: /usr/lib/xorg/Xorg
+PID: 2412 | MEM: 0.7% | CPU: 0.4% | CMD: /usr/bin/mongod
+PID: 4017 | MEM: 0.7% | CPU: 0.0% | CMD: /usr/libexec/xdg-desktop-po
+PID: 3602 | MEM: 0.6% | CPU: 0.0% | CMD: /usr/libexec/mutter-x11-fra
+PID: 3382 | MEM: 0.6% | CPU: 0.0% | CMD: /snap/snapd-desktop-integra
+[!] Potential memory leaks found. Review the log file.

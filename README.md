@@ -10,3 +10,4 @@ A 30-day DevOps-focused Bash automation challenge. Each day features a real-worl
 | 4   | Auto Backup Script                   		| [Day-04](./Day-04) |
 | 5   | Log Cleaner & Archiver               		| [Day-05](./Day-05) |
 | 6   | Disk Usage Threshold Alert (Slack Alerting) | [Day-06](./Day-06) |
+| 7   | Memory Leak Detector (Slack Alerting) 		| [Day-07](./Day-07) |

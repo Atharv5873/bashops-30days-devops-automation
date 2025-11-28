@@ -1,0 +1,6 @@
+Memory Leak Detection Report - 2025-11-28_14-41-27
+Threshold: 1%
+---------------------------------------------
+[*] Scanning for processes exceeding 1% memory...
+PID: 3581 | MEM: 1.6% | CPU: 0.4% | CMD: /usr/bin/gnome-shell
+[!] Potential memory leaks found. Review the log file.

@@ -1,0 +1,5 @@
+Memory Leak Detection Report - 2025-11-28_14-41-11
+Threshold: 30%
+---------------------------------------------
+[*] Scanning for processes exceeding 30% memory...
+[+] No memory leaks detected.

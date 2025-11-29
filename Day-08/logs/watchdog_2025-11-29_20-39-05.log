@@ -1,0 +1,84 @@
+Advanced Watchdog Started for service: docker
+Interval: 10 seconds
+------------------------------------------
+Sat Nov 29 08:39:05 PM IST 2025: [ALERT] docker is DOWN!
+Attempting restart...
+Sat Nov 29 08:39:06 PM IST 2025: Restart SUCCESSFUL.
+Sat Nov 29 08:39:16 PM IST 2025: docker is running.
+Sat Nov 29 08:39:26 PM IST 2025: docker is running.
+Sat Nov 29 08:39:36 PM IST 2025: docker is running.
+Sat Nov 29 08:39:46 PM IST 2025: docker is running.
+Sat Nov 29 08:39:56 PM IST 2025: docker is running.
+Sat Nov 29 08:40:06 PM IST 2025: [ALERT] docker is DOWN!
+Attempting restart...
+Sat Nov 29 08:40:07 PM IST 2025: Restart SUCCESSFUL.
+Sat Nov 29 08:40:17 PM IST 2025: docker is running.
+Sat Nov 29 08:40:27 PM IST 2025: docker is running.
+Sat Nov 29 08:40:37 PM IST 2025: docker is running.
+Sat Nov 29 08:40:47 PM IST 2025: docker is running.
+Sat Nov 29 08:40:57 PM IST 2025: docker is running.
+Sat Nov 29 08:41:07 PM IST 2025: docker is running.
+Sat Nov 29 08:41:17 PM IST 2025: docker is running.
+Sat Nov 29 08:41:27 PM IST 2025: docker is running.
+Sat Nov 29 08:41:37 PM IST 2025: docker is running.
+Sat Nov 29 08:41:47 PM IST 2025: docker is running.
+Sat Nov 29 08:41:57 PM IST 2025: docker is running.
+Sat Nov 29 08:42:07 PM IST 2025: docker is running.
+Sat Nov 29 08:42:17 PM IST 2025: docker is running.
+Sat Nov 29 08:42:27 PM IST 2025: docker is running.
+Sat Nov 29 08:42:37 PM IST 2025: docker is running.
+Sat Nov 29 08:42:47 PM IST 2025: docker is running.
+Sat Nov 29 08:42:57 PM IST 2025: docker is running.
+Sat Nov 29 08:43:07 PM IST 2025: docker is running.
+Sat Nov 29 08:43:17 PM IST 2025: docker is running.
+Sat Nov 29 08:43:27 PM IST 2025: docker is running.
+Sat Nov 29 08:43:37 PM IST 2025: docker is running.
+Sat Nov 29 08:43:47 PM IST 2025: docker is running.
+Sat Nov 29 08:43:57 PM IST 2025: docker is running.
+Sat Nov 29 08:44:07 PM IST 2025: docker is running.
+Sat Nov 29 08:44:17 PM IST 2025: docker is running.
+Sat Nov 29 08:44:27 PM IST 2025: docker is running.
+Sat Nov 29 08:44:37 PM IST 2025: docker is running.
+Sat Nov 29 08:44:47 PM IST 2025: docker is running.
+Sat Nov 29 08:44:57 PM IST 2025: docker is running.
+Sat Nov 29 08:45:07 PM IST 2025: docker is running.
+Sat Nov 29 08:45:17 PM IST 2025: docker is running.
+Sat Nov 29 08:45:27 PM IST 2025: docker is running.
+Sat Nov 29 08:45:37 PM IST 2025: docker is running.
+Sat Nov 29 08:45:47 PM IST 2025: docker is running.
+Sat Nov 29 08:45:57 PM IST 2025: docker is running.
+Sat Nov 29 08:46:07 PM IST 2025: docker is running.
+Sat Nov 29 08:46:17 PM IST 2025: docker is running.
+Sat Nov 29 08:46:27 PM IST 2025: docker is running.
+Sat Nov 29 08:46:37 PM IST 2025: docker is running.
+Sat Nov 29 08:46:47 PM IST 2025: docker is running.
+Sat Nov 29 08:46:57 PM IST 2025: docker is running.
+Sat Nov 29 08:47:07 PM IST 2025: docker is running.
+Sat Nov 29 08:47:17 PM IST 2025: docker is running.
+Sat Nov 29 08:47:27 PM IST 2025: docker is running.
+Sat Nov 29 08:47:37 PM IST 2025: docker is running.
+Sat Nov 29 08:47:47 PM IST 2025: docker is running.
+Sat Nov 29 08:47:57 PM IST 2025: docker is running.
+Sat Nov 29 08:48:07 PM IST 2025: docker is running.
+Sat Nov 29 08:48:17 PM IST 2025: docker is running.
+Sat Nov 29 08:48:27 PM IST 2025: docker is running.
+Sat Nov 29 08:48:37 PM IST 2025: docker is running.
+Sat Nov 29 08:48:47 PM IST 2025: docker is running.
+Sat Nov 29 08:48:57 PM IST 2025: docker is running.
+Sat Nov 29 08:49:07 PM IST 2025: docker is running.
+Sat Nov 29 08:49:17 PM IST 2025: docker is running.
+Sat Nov 29 08:49:27 PM IST 2025: docker is running.
+Sat Nov 29 08:49:37 PM IST 2025: docker is running.
+Sat Nov 29 08:49:47 PM IST 2025: docker is running.
+Sat Nov 29 08:49:57 PM IST 2025: docker is running.
+Sat Nov 29 08:50:07 PM IST 2025: docker is running.
+Sat Nov 29 08:50:17 PM IST 2025: docker is running.
+Sat Nov 29 08:50:27 PM IST 2025: docker is running.
+Sat Nov 29 08:50:37 PM IST 2025: docker is running.
+Sat Nov 29 08:50:47 PM IST 2025: docker is running.
+Sat Nov 29 08:50:57 PM IST 2025: docker is running.
+Sat Nov 29 08:51:07 PM IST 2025: docker is running.
+Sat Nov 29 08:51:17 PM IST 2025: docker is running.
+Sat Nov 29 08:51:27 PM IST 2025: docker is running.
+Sat Nov 29 08:51:37 PM IST 2025: docker is running.
+Sat Nov 29 08:51:47 PM IST 2025: docker is running.
